@@ -1,0 +1,2 @@
+C:\Users\beyza\Desktop\googleanasayfa\googlehomepage\obj\Debug\googlehomepage.csproj.AssemblyReference.cache
+C:\Users\beyza\Desktop\googleanasayfa\googlehomepage\obj\Debug\googlehomepage.csproj.CoreCompileInputs.cache
